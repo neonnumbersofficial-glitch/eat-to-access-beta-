@@ -1,5 +1,5 @@
-flask==2.3.3
-flask-lambda==0.1.0
+Flask==2.3.3
+flask-lambda==0.0.4
 requests==2.31.0
 pycryptodome==3.19.0
-protobuf==3.20.3  # Use older version for better compatibility
+protobuf==4.25.3
